@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.primary {
+    background:#2F3C7E ;
+}
+.secondary {
+    background:#FBEAEB ;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+  
